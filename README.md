@@ -10,7 +10,7 @@ To run this project, you'll need to install the required libraries. You can do t
 pip install SpeechRecognition<br>
 pip install pyttsx3
 <br><br>
-Usage<br>
+<b>Usage</b><br>
 To use the voice assistant, simply run the script and speak commands into your microphone. Here are some example commands:<br>
 <br>
 "Alexa, play [song name]" from youtube<br>
