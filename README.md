@@ -16,13 +16,13 @@ To use the voice assistant, simply run the script and speak commands into your m
 "Alexa, play [song name]" from youtube<br>
 "Alexa, what is the time?"<br>
 "Alexa, tell me about [person or topic]"<br><br>
-Contributing<br>
+<strong>Contributing</strong><br>
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.<br>
 <br>
-Credits<br>
+<strong>Credits</strong><br>
 This project relies on the following libraries:<br>
 
-SpeechRecognition<br>
+<strong>SpeechRecognition</strong><br>
 pyttsx3<br>
 pywhatkit<br>
 Wikipedia-API<br>
